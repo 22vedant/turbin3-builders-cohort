@@ -19,3 +19,10 @@ node_modules
 *keypair.json
 lib
 secret-solflare.json
+
+# Added by cargo
+
+/target
+secret.json
+dev-wallet.json
+req_rs/target
